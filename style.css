@@ -1,0 +1,13 @@
+body{
+    color:white;
+    background: black;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header{
+    border: solid 2px rgb(170, 170, 170, 1)
+}
+
+section{
+    background: rgb(0, 0, 0, 1);
+}
